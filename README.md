@@ -2,5 +2,6 @@
 # Having a passion for embedded programming
 # Contact via:
 ## Fb: https://www.facebook.com/diepphi99
+# Banking:
 ## STK: 0381000572065 VCB
 ## Momo: 0523088216
